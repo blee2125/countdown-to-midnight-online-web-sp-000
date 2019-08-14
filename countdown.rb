@@ -1,5 +1,5 @@
 #write your code here
-
+seconds = 12
 def countdown(seconds)
   while seconds > 0
     puts "#{seconds} SECOND(S)!"
