@@ -6,7 +6,7 @@ def countdown(seconds)
     seconds -=1
     if seconds == 0
       puts "HAPPY NEW YEAR!"
-      
+
     end
   end
 end
